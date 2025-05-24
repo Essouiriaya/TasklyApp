@@ -7,7 +7,7 @@
   <li>✅ <strong>Création de tâches</strong> : Ajoutez facilement de nouvelles tâches avec un titre, une description, une priorité et une échéance.</li>
   <li>🕒 <strong>Gestion des statuts</strong> : Organisez vos tâches par statut (À faire, En cours, Terminée) à l’aide d’un tableau Kanban interactif.</li>
   <li>🧠 <strong>Catégorisation intelligente</strong> : Classez vos tâches par projet, priorité ou date d’échéance.</li>
-  <li>👥 <strong>Gestion des membres</strong> : Invitez des membres à collaborer sur vos projets. Chaque tâche peut être assignée à un ou plusieurs utilisateurs.</li>
+  <li>👥 <strong>Gestion des membres</strong> : Invitez des membres à collaborer sur vos projets. Chaque tâche peut être assignée à un utilisateur.</li>
   <li>🔒 <strong>Authentification sécurisée</strong> : Inscription, connexion et gestion de session des utilisateurs avec chiffrement des mots de passe.</li>
   <li>📬 <strong>Notifications (optionnel)</strong> : Rappel par e-mail pour les tâches proches de leur échéance.</li>
   <li>📊 <strong>Dashboard personnalisé</strong> : Visualisez toutes vos tâches et projets en un coup d'œil.</li>
